@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/sabbir13" target="blank"><img src="https://img.shields.io/twitter/follow/sabbir13?logo=twitter&style=for-the-badge" alt="sabbir13" /></a> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **NodeJs &Express**
 
 - 💬 Ask me about **MERN ,Java , C++**
 
