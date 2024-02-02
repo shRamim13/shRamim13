@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **MERN ,Java , C++**
+- 💬 Ask me about **Java , c , C++ , MERN , Python**
 
 - 📫 How to reach me **shramim13@gmail.com**
 
