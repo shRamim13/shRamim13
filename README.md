@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sabbir13" target="blank"><img src="https://img.shields.io/twitter/follow/sabbir13?logo=twitter&style=for-the-badge" alt="sabbir13" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **LLM**
 
 - 💬 Ask me about **Java , C , C++ , MERN , Python**
 
